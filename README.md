@@ -1,2 +1,2 @@
-# Challenge-Imani
-Challenge Completed 
+# Hello Class 
+I am ready for the Challenge 
